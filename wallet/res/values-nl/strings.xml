@@ -187,7 +187,7 @@
   <string name="network_monitor_block_list_title">Blokken</string>
   <string name="block_row_mining_difficulty_adjustment">Moeilijkheidsgraad aanpassing</string>
   <string name="block_row_mining_reward_adjustment">Halvering van mining inkomsten</string>
-  <string name="block_row_now">alleen nu</string>
+  <string name="block_row_now">zojuist</string>
   <string name="peer_list_fragment_empty">Geen connecties</string>
   <string name="peer_list_row_ping_time">⇆ %d&#x2009;ms</string>
   <string name="import_keys_dialog_title">Herstel portemonnee</string>
